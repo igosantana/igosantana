@@ -6,8 +6,8 @@
 - 📫 Contate-me no email: igo.santana33@gmail.com
 
 <div>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=igosantana&show_icons=true&theme=vision-friendly-dark' />
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=igosantana&layout=compact&theme=vision-friendly-dark' />
+  <img height='180em' width='400em' src='https://github-readme-stats.vercel.app/api?username=igosantana&show_icons=true&theme=vision-friendly-dark' />
+  <img height='180em' width='400em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=igosantana&layout=compact&theme=vision-friendly-dark' />
 </div>
 
 <div>
