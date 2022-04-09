@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! Eu sou o Igo Santana 👍
 
-<!--
-**igosantana/igosantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje eu trabalho com front-end
+- 🌱 Estudando Typescript, NodeJs e testes
+- 📫 Contate-me no email: igo.santana33@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=igosantana&show_icons=true&theme=vision-friendly-dark' />
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=igosantana&layout=compact&theme=vision-friendly-dark' />
+</div>
+
+<div>
+  
+  <img  width='32px' height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img  width='32px' height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img  width='32px' height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img  width='32px' height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />       
+  <img  width='32px' height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img  width='32px' height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ </div>
