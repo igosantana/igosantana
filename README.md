@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando Typescript, NodeJs e NextJs
+- 🌱 Estudando Python
 - 📫 Contate-me no email: igo.santana33@gmail.com
 
 <div>
