@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igo Santana 👍
 
 
-- 🔭 Hoje eu trabalho com front-end
+- 🔭 Desenvolvedor Full-stack
 - 🌱 Estudando Golang
 - 📫 Contate-me no email: igo.santana33@gmail.com
 
