@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor Full-stack
-- 🌱 Estudando Golang
+- 🌱 Estudando AWS e Python
 - 📫 Contate-me no email: igo.santana33@gmail.com
 
 <div>
@@ -18,4 +18,8 @@
   <img  width='32px' height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />       
   <img  width='32px' height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img  width='32px' height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img  width='32px' height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img width='32px' height='32px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+          
+          
  </div>
