@@ -1,7 +1,6 @@
 ### Hello! I'm Igo 👍
 
 - 🔭 Full Stack Developer
-- 🌱 Studying C# .Net
 - 📫 Contact me: igo.santana33@gmail.com
 
 <div>
